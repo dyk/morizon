@@ -1,0 +1,11 @@
+target/
+project/target/
+.idea
+.idea_modules/
+data
+*.lock
+._.DS_Store
+.java-version
+/*.pid
+/*.log
+logs
